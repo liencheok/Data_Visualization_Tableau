@@ -36,3 +36,11 @@ My responsibilities in the project included:
 ## Notes
 
 This project was developed for academic coursework in the Data Visualization module.
+
+## Dashboard Preview
+
+### Dashboard Overview
+![Dashboard Overview](dashboard_overview.png)
+
+This interactive dashboard explores global coffee ratings by comparing price, origin, roast type, and rating trends over time.
+
