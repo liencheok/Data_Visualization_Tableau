@@ -1,30 +1,38 @@
-# Customer Sales Analysis Tableau
+# Data Visualization – Tableau Dashboard
 
-This project was developed as part of a **Business Analytics group project**.  
-The objective was to analyze business data and present insights using interactive Tableau dashboards.
+This project was developed as part of a **Data Visualization course**.  
+It demonstrates the use of Tableau to explore and present insights from data using interactive visualizations.
 
 ## Project Overview
-The dashboard focuses on identifying key trends, patterns, and performance indicators to support business decision-making.
 
-Key objectives include:
-- Exploring sales and customer-related trends
-- Comparing performance across categories or time periods
-- Presenting insights in a clear and interactive visual format
+The dashboard is designed to help users explore key trends and patterns within a dataset, such as:
+
+- Comparing distributions across categories
+- Analyzing changes over time
+- Using filters and interactivity to focus on specific segments
+
+The goal is to communicate insights clearly and intuitively using visualization best practices.
 
 ## My Contribution
-In this group project, I was responsible for:
-- Designing Tableau dashboards and visual layouts
-- Selecting appropriate chart types for analysis
-- Creating calculated fields and filters
-- Interpreting insights and summarizing findings
+
+This project was completed as part of a group assignment.  
+My responsibilities in the project included:
+
+- Designing the dashboard layout and visual elements
+- Creating calculated fields and interactive filters
+- Applying data visualization principles in chart selection and color
+- Interpreting data insights and creating narrative supporting visuals
 
 ## Tools Used
-- Tableau
-- Data visualization principles
-- Business analytics concepts
 
-## Files
-- `Group_Project_VizMaster.twbx` – Packaged Tableau workbook containing dashboards and data
+- **Tableau Desktop**
+- Data visualization techniques
+- Visual analytics workflows
+
+## File
+
+- `Data_Visualization_Tableau_Dashboard.twbx` — Packaged Tableau workbook file
 
 ## Notes
-This project was completed for academic purposes as part of coursework.
+
+This project was developed for academic coursework in the Data Visualization module.
